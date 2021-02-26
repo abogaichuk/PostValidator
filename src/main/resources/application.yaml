@@ -1,0 +1,11 @@
+logging:
+  level:
+    root: INFO
+
+spring:
+  output:
+    ansi:
+      enabled: always
+
+
+url: url_here
